@@ -101,7 +101,7 @@ def main():
     st.markdown(
         """
         <p style='font-size:18px; color:black;'>
-        Ask multiple questions on your uploaded documents without re-uploading.<br>
+        Ask multiple questions on your uploaded documents.<br>
         Powered by <b>Google Gemini LLM</b> and <b>Gemini Embeddings</b>.
         </p>
         """,

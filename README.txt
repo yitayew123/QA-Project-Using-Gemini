@@ -93,3 +93,6 @@ Contact:
 --------
 For questions or issues, contact: yitayewsolomon3@gmail.com
 
+### Demo of the QA with Documents App
+
+![Demo](QA_Demo.gif)
